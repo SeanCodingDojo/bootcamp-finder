@@ -1,6 +1,7 @@
 admissions: Application
 cities:
-- new-york
+- chicago
+- washington dc
 - seattle
 - san-francisco
 - los-angeles
